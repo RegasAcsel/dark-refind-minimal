@@ -1,1 +1,2 @@
 Увы и ах настраивать мне лень все это... но вы можете взять переработанные фото и поместить их в тему https://github.com/evanpurkhiser/rEFInd-minimal чтобы получить темную тему) Удачи ;)
+Вся работа, кроме затемнения картинок, сделана ребятами из rEFInd-minimal. Иконки ОС — от Lightness for burg от SWOriginal, фон — Minimalist Wallpaper от LeonardoAIanB (спасибо Padster, что нашёл!).
